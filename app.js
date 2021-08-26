@@ -15,6 +15,7 @@ const shop = {
         profession: 'navel dancer';
 
     }
+
     isExpensive: false
 }
 const shopStringified = JSON.stringify(shop);
